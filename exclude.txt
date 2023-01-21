@@ -9,6 +9,7 @@ classes
 dlls
 events
 manual
+logs
 resource
 overviews/cs_estate.txt
 overviews/de_train.bmp
